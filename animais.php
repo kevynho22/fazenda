@@ -25,25 +25,25 @@ echo "Animal: $porco->especie\n";
 echo "Patas: $porco->patas\n";
 echo "Pele: $porco->pele\n";
 echo "Som: $porco->som\n";
-echo "Movimento: $porco->movimento\n\n";
+echo "Movimento: $porco->movimento\n";
 
 echo "Animal: $vaca->especie\n";
 echo "Patas: $vaca->patas\n";
 echo "Pele: $vaca->pele\n";
 echo "Som: $vaca->som\n";
-echo "Movimento: $vaca->movimento\n\n";
+echo "Movimento: $vaca->movimento\n";
 
 echo "Animal: $galinha->especie\n";
 echo "Patas: $galinha->patas\n";
 echo "Pele: $galinha->pele\n";
 echo "Som: $galinha->som\n";
-echo "Movimento: $galinha->movimento\n\n";
+echo "Movimento: $galinha->movimento\n";
 
 echo "Animal: $codorna->especie\n";
 echo "Patas: $codorna->patas\n";
 echo "Pele: $codorna->pele\n";
 echo "Som: $codorna->som\n";
-echo "Movimento: $codorna->movimento\n\n";
+echo "Movimento: $codorna->movimento\n";
 
 echo "Animal: $cavalo->especie\n";
 echo "Patas: $cavalo->patas\n";
