@@ -15,7 +15,7 @@ class Animal{
         $this->movimento = $movimento;
 }
 }
-$porco = new Animal("Porco", 4, "Pelos", "Oinc", "Anda");
+$porco = new Animal("Porco", 4, "Pelos", "Oinc Oinc", "Anda");
 $vaca = new Animal("Vaca", 4, "Pelos", "Muu", "Anda");
 $galinha = new Animal("Galinha", 2, "Penas", "Cocoricó", "voa baixo ");
 $codorna = new Animal("Codorna", 2, "Penas", "pi pi pi", "Voa");
